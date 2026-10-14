@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(https://oma-online.org/wp-content/uploads/2020/04/HEADER_OMA-Auction-2020-200506-049-2_1920x700.jpg);
+    align-content: center;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+section{
+    display:flex;
+    gap: 40px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.images{
+    width: 400px;
+    text-align: center;
+    font-family:Georgia, Times, 'Times New Roman', serif;
+}
